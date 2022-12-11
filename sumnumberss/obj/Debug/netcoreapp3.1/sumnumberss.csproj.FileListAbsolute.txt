@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\summmm\sumnumberss\sumnumberss\bin\Debug\netcoreapp3.1\sumnumberss.exe
+C:\Users\ACER\Desktop\summmm\sumnumberss\sumnumberss\bin\Debug\netcoreapp3.1\sumnumberss.deps.json
+C:\Users\ACER\Desktop\summmm\sumnumberss\sumnumberss\bin\Debug\netcoreapp3.1\sumnumberss.runtimeconfig.json
+C:\Users\ACER\Desktop\summmm\sumnumberss\sumnumberss\bin\Debug\netcoreapp3.1\sumnumberss.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\summmm\sumnumberss\sumnumberss\bin\Debug\netcoreapp3.1\sumnumberss.dll
+C:\Users\ACER\Desktop\summmm\sumnumberss\sumnumberss\bin\Debug\netcoreapp3.1\sumnumberss.pdb
+C:\Users\ACER\Desktop\summmm\sumnumberss\sumnumberss\obj\Debug\netcoreapp3.1\sumnumberss.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\summmm\sumnumberss\sumnumberss\obj\Debug\netcoreapp3.1\sumnumberss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\summmm\sumnumberss\sumnumberss\obj\Debug\netcoreapp3.1\sumnumberss.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\summmm\sumnumberss\sumnumberss\obj\Debug\netcoreapp3.1\sumnumberss.AssemblyInfo.cs
+C:\Users\ACER\Desktop\summmm\sumnumberss\sumnumberss\obj\Debug\netcoreapp3.1\sumnumberss.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\summmm\sumnumberss\sumnumberss\obj\Debug\netcoreapp3.1\sumnumberss.dll
+C:\Users\ACER\Desktop\summmm\sumnumberss\sumnumberss\obj\Debug\netcoreapp3.1\sumnumberss.pdb
+C:\Users\ACER\Desktop\summmm\sumnumberss\sumnumberss\obj\Debug\netcoreapp3.1\sumnumberss.genruntimeconfig.cache
